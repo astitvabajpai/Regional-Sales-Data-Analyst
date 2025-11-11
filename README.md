@@ -1,6 +1,6 @@
 # Regional Sales Analysis
 
-![Sales Analysis](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.salesforce.com%2Fin%2Fblog%2Fsales-analysis%2F&psig=AOvVaw0Uz0fDAEnLX1ZuQQkhVUkY&ust=1762959296234000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLDfy6Ct6pADFQAAAAAdAAAAABAE)
+![Sales Analysis](https://www.salesforce.com/in/blog/wp-content/uploads/sites/9/2024/03/Sales-Analysis.jpg?w=768&h=432)
 
 
 A Python notebook solution for comprehensive sales analytics on Acme Co.'s data (2021–2025), focusing on revenue, profit drivers, channel and regional trends, seasonality, and alignment versus fiscal budgets. The analysis enables actionable insights for pricing, promotions, and market expansion to optimize sustainable growth and reduce risk concentration.
