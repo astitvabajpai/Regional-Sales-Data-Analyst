@@ -67,13 +67,3 @@ This project analyzes Acme Co.'s historical sales data to:
     ```
 5. Review plots in-line and consult the Insights section for actionable findings.
 
-## Recommendations & Next Steps
-
-- Leverage performance learnings from top-margin products for uplift strategies across weaker segments.
-- Pursue diversification by accelerating export channels, especially in underperforming regions.
-- Prioritize targeted promotions in the Northeast to close sales gaps.
-- Implement the code and EDA templates for other sales datasets or fiscal periods as needed.
-
-## License
-
-This project is provided for academic, educational, and internal corporate use. Please cite appropriately and consult Acme Co.'s data policy before reuse for other commercial or public projects.
